@@ -9,7 +9,7 @@ In this repository, I share my daily problem of day solutions. I solve all probl
 </tr>
 <tr>
 <td>9 January 2023</td>
-<td><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/874662410/">Binary Tree Traversal</a></td>
+<td><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/874662410/">Binary Tree Preorder Traversal</a></td>
 <td><a href="https://github.com/pratikvairat/Problem_of_Day_LeetCode/blob/main/Preorder_Traversal.cpp">Solution</a></td>
 </tr>
 </table>
